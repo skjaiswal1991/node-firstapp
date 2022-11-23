@@ -22,6 +22,6 @@
     "mysql": "github:mysqljs/mysql",
     "npm": "^6.10.2",
     "request": "^2.88.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   }
 }
