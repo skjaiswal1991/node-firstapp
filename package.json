@@ -14,7 +14,7 @@
     "body-parser": "^1.19.0",
     "countdowntimer": "^2.0.1",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "jquery-countdown": "^2.2.0",
     "jsonwebtoken": "^8.5.1",
