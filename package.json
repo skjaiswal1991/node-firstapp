@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "jquery": "^3.4.1",
     "jquery-countdown": "^2.2.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "mysql": "github:mysqljs/mysql",
     "npm": "^6.10.2",
